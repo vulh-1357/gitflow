@@ -4,3 +4,5 @@ branch4 test3
 branch4 test4
 branch4 test5
 branch4 test6
+branch4 test7
+branch4 test8
